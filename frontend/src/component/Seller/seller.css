@@ -1,0 +1,129 @@
+.container{
+  display: flex;
+  background-color:lightblue;
+  margin: 20px;
+  margin-top: 40px;
+  border-radius: 20px;
+}
+.lable{
+  margin-right: 20%;
+
+}
+
+.Crud{
+  background-color: white; 
+  padding-left: 50px; 
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  border-radius: 25px;
+  margin: 20px;
+ 
+  
+
+}
+.input{
+  border-radius:7px;
+  margin-right: 50px;
+  margin-top:10px;
+  margin-bottom:10px
+}
+.btn{
+  border-radius: 7px;
+  margin-left: 10px;
+  font-size: 15px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+ 
+}
+.card{
+  margin: 20px;
+  border-radius: 20px;
+}
+.paper{
+margin: 10px;
+background-color: black;
+border-radius: 10px;
+}
+.modal {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px; 
+}
+
+.modal h4 {
+  margin-bottom: 10px; 
+}
+
+.modal label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.modal input[type="text"],
+.modal input[type="file"] {
+  width: 50%;
+  margin-bottom: 10px; 
+}
+
+.modal button {
+  margin-top: 10px;
+}
+
+
+.container1 {
+  max-width: 800px;
+  margin: 4% ;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.heading {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.details {
+  display: flex;
+  text-align: center;
+
+}
+
+.left-column,
+.right-column {
+  flex: 1 1 8%; /* Three items on each side with a little spacing */
+}
+
+.left-column {
+  margin-right: 2%; /* Add a little space between the columns */
+}
+
+.left-column h4,
+.right-column h4 {
+  margin-bottom: 5px;
+}
+
+.left-column p,
+.right-column p {
+  margin-bottom: 15px;
+}
+.detail{
+  display: flex;
+}
+.detail p{
+  flex: 1 0 3%; 
+  text-align:end;
+  
+}
+
+.Postad{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2%;
+
+}

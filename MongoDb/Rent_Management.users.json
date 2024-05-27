@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6652ce375b4af202ad45def4"
+  },
+  "first_name": "karthik",
+  "last_name": "rangala",
+  "password": "$2b$10$xJ079cQfw8zydQxbuvJ9TuEnqZFmNy2q2H31fT/9eYnTDp/sIxJhy",
+  "mobile": {
+    "$numberLong": "8179554909"
+  },
+  "email": "buyer@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652d25c5b4da007d9729fa1"
+  },
+  "first_name": "buyer2",
+  "last_name": "buyer2",
+  "password": "$2b$10$YF0zBoGHkj77yq0BXECLUOlL51vFCUBK857Xmlt5jau52AgxU.RjC",
+  "mobile": {
+    "$numberLong": "8179664909"
+  },
+  "email": "buyer2@gmail.com",
+  "__v": 0
+}]

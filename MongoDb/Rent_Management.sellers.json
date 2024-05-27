@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "6652cf9f5b4da007d9729f2a"
+  },
+  "first_name": "seller",
+  "last_name": "seller",
+  "password": "$2b$10$LKO862ad90umZgJj4Hs3Z.L1nQdMXoNMJoIQVUeX4l7debVX/ciiO",
+  "mobile": {
+    "$numberLong": "9908567543"
+  },
+  "email": "seller@gamil.com",
+  "ad": [
+    {
+      "plotArea": "Shop No. 12 , Dosti Planet North Shilphata Mumbra Thane",
+      "length": 5678,
+      "breadth": 5645,
+      "facing": "South",
+      "projectName": "karthik",
+      "adTitle": "seller",
+      "description": "Sale 17,50,000\r\n\r\nFully Furnished Flat with all amenities and 1 car parking space in Rajmoti 2\r\n\r\n1 Bedroom, 1 Hall, 1 Kitchen, 2 Balcony, 1 Bathroom\r\n\r\nFull furnished flat with\r\n\r\nKitchen drawer,\r\n\r\nWardrobe for Clothes,\r\n\r\n1 beds and many more\r\n\r\nLocation Rajmoti 2, chharwada road\r\n\r\nHariya hospital -0.5 KM\r\n\r\nGnyandham school 0.5 KM\r\n\r\nGunjan market 1.0 KM\r\n\r\nNational Highway 0.5 KM\r\n\r\nMessage me if you are interested. I will revert by message or call\r\n\r\nBroker can also message me",
+      "images": [
+        "http://localhost:3002/uploads/1716703315114download (3).jpeg",
+        "http://localhost:3002/uploads/1716703315116download (2).jpeg",
+        "http://localhost:3002/uploads/1716703315116download (1).jpeg"
+      ],
+      "price": 50000,
+      "state": "Ap",
+      "city": "Tuni",
+      "name": "seller",
+      "mobile": "8179554909",
+      "_id": {
+        "$oid": "6652d0535b4da007d9729f2f"
+      }
+    },
+    {
+      "plotArea": "Shop No. 13 , Dosti Planet North Shilphata Mumbra Thane",
+      "length": 56757,
+      "breadth": 6786,
+      "facing": "West",
+      "projectName": "seller",
+      "adTitle": "seller",
+      "description": "Sale 17,50,000\r\n\r\nFully Furnished Flat with all amenities and 1 car parking space in Rajmoti 2\r\n\r\n1 Bedroom, 1 Hall, 1 Kitchen, 2 Balcony, 1 Bathroom\r\n\r\nFull furnished flat with\r\n\r\nKitchen drawer,\r\n\r\nWardrobe for Clothes,\r\n\r\n1 beds and many more\r\n\r\nLocation Rajmoti 2, chharwada road\r\n\r\nHariya hospital -0.5 KM\r\n\r\nGnyandham school 0.5 KM\r\n\r\nGunjan market 1.0 KM\r\n\r\nNational Highway 0.5 KM\r\n\r\nMessage me if you are interested. I will revert by message or call\r\n\r\nBroker can also message me",
+      "images": [
+        "http://localhost:3002/uploads/1716703478682download (3).jpeg",
+        "http://localhost:3002/uploads/1716703478682download (2).jpeg"
+      ],
+      "price": 70000,
+      "state": "Ts",
+      "city": "Hyderabad ",
+      "name": "seller",
+      "mobile": "8179554909",
+      "_id": {
+        "$oid": "6652d0f65b4da007d9729f41"
+      }
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6652d1585b4da007d9729f58"
+  },
+  "first_name": "seller2",
+  "last_name": "seller2",
+  "password": "$2b$10$j/Qy16mJ/Z0JWGS.wEiwvumSRvRirQ8hdn0SpZfaFXxVZMLGosWs2",
+  "mobile": {
+    "$numberLong": "9908567543"
+  },
+  "email": "seller2@gmail.com",
+  "ad": [
+    {
+      "plotArea": "Shop No. 12 , Dosti Planet North Shilphata Mumbra Thane",
+      "length": 4567,
+      "breadth": 6789,
+      "facing": "North-West",
+      "projectName": "seller2",
+      "adTitle": "seller2",
+      "description": "Sale 17,50,000\r\n\r\nFully Furnished Flat with all amenities and 1 car parking space in Rajmoti 2\r\n\r\n1 Bedroom, 1 Hall, 1 Kitchen, 2 Balcony, 1 Bathroom\r\n\r\nFull furnished flat with\r\n\r\nKitchen drawer,\r\n\r\nWardrobe for Clothes,\r\n\r\n1 beds and many more\r\n\r\nLocation Rajmoti 2, chharwada road\r\n\r\nHariya hospital -0.5 KM\r\n\r\nGnyandham school 0.5 KM\r\n\r\nGunjan market 1.0 KM\r\n\r\nNational Highway 0.5 KM\r\n\r\nMessage me if you are interested. I will revert by message or call\r\n\r\nBroker can also message me",
+      "images": [
+        "http://localhost:3002/uploads/1716703691857images (2).jpeg",
+        "http://localhost:3002/uploads/1716703691858images (1).jpeg"
+      ],
+      "price": 30000,
+      "state": "Ap",
+      "city": "Tuni",
+      "name": "seller2",
+      "mobile": "99085675",
+      "_id": {
+        "$oid": "6652d1cb5b4da007d9729f5b"
+      }
+    }
+  ],
+  "__v": 1
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6652d2265b4da007d9729f96"
+  },
+  "id": "6652d0535b4da007d9729f2f",
+  "mobile": {
+    "$numberLong": "8179554909"
+  },
+  "email": "buyer@gmail.com",
+  "first_name": "karthik",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652d22d5b4da007d9729f9a"
+  },
+  "id": "6652d0f65b4da007d9729f41",
+  "mobile": {
+    "$numberLong": "8179554909"
+  },
+  "email": "buyer@gmail.com",
+  "first_name": "karthik",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652d22e5b4da007d9729f9e"
+  },
+  "id": "6652d1cb5b4da007d9729f5b",
+  "mobile": {
+    "$numberLong": "8179554909"
+  },
+  "email": "buyer@gmail.com",
+  "first_name": "karthik",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652d25f5b4da007d9729fad"
+  },
+  "id": "6652d0535b4da007d9729f2f",
+  "mobile": {
+    "$numberLong": "8179664909"
+  },
+  "email": "buyer2@gmail.com",
+  "first_name": "buyer2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6652d2605b4da007d9729fb1"
+  },
+  "id": "6652d0f65b4da007d9729f41",
+  "mobile": {
+    "$numberLong": "8179664909"
+  },
+  "email": "buyer2@gmail.com",
+  "first_name": "buyer2",
+  "__v": 0
+}]

@@ -1,0 +1,46 @@
+
+
+.student-auth-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 100vh;
+}
+
+.login-container, .signup-container {
+    width: 300px;
+    margin: 0 20px;
+    background-color: lightblue;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: rgb(37, 113, 138);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 10px;
+  
+
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
